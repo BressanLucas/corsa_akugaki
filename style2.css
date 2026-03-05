@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(179, 179, 245);
+   
+    font-style: italic;
+}
+h2 {
+    color: rgb(16, 14, 148);
+    font-size: 50px;
+    font-style: italic;
+ text-align: center;
+}
+p {
+    color: rgb(7, 30, 104);
+    font-size: 18px;
+    font-style: italic;
+}
+ul {
+    color: rgb(7, 30, 104);
+    font-size: 18px;
+    font-style: italic;
+}
